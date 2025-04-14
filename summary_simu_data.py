@@ -73,7 +73,7 @@ def main():
     # # plt.colorbar(im0, shrink=0.3, aspect=20)  # Colorbar for the first subplot
     # plt.show()
 
-    n_1 = 180
+    n_1 = 120
     b_ri_all = np.zeros(shape=(n_1, n_simu))
     b_ari_all = np.zeros(shape=(n_1, n_simu))
     b_homo_all = np.zeros(shape=(n_1, n_simu))

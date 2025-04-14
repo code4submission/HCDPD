@@ -2,7 +2,7 @@
 ##  Bayesian Causal Inference / Heterogeneous Causal
 Framework for Disease Pattern Detection
 ##  OAI dataset
-## Run simulation studies
+## Report simulation studies results
 ## command line: python report_simu_data.py --id 1   (1 is the simulation id for random seed specification)
 """
 
